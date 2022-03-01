@@ -1,4 +1,4 @@
-![hiya! i'm lua](https://user-images.githubusercontent.com/38384052/145690854-f3e3c90d-347b-428f-957e-b745db093152.png)
+[![hiya! i'm lua](https://user-images.githubusercontent.com/38384052/156082459-f4e4f46b-f2fa-462b-8d34-6ea7793c0564.png)](https://www.lua.systems)
 check out my [website](https://sites.google.com/view/luaexception) | i'm on [roblox](https://www.roblox.com/users/110029109/profile) | or the (roblox) [devforum](https://devforum.roblox.com/u/lua_exception)
 <!---
 README.md          🗕 🗗 🗙
