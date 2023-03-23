@@ -1,4 +1,4 @@
-[![arlo](https://user-images.githubusercontent.com/38384052/179401738-59c67275-ef54-4cc5-ba58-72ed9ce66903.png)](https://www.lua.systems)
+[![arlo](https://user-images.githubusercontent.com/38384052/179401738-59c67275-ef54-4cc5-ba58-72ed9ce66903.png)]([https://www.lua.systems](https://sites.google.com/view/luaexception))
 check out my [website](https://sites.google.com/view/luaexception) | i'm on [roblox](https://www.roblox.com/users/110029109/profile) | or the (roblox) [devforum](https://devforum.roblox.com/u/loowa_yawn)
 <!---
 README.md          🗕 🗗 🗙
