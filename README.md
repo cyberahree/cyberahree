@@ -9,7 +9,7 @@
     <p>i primarily work with lua code for game development on roblox,<br/>but i also enjoy creating small programs to help make my life that little bit easier</p>
     <p>in my free-time, i enjoy going out and taking pictures, discovering new places or just socialising with the lads</p>
     <h2>well, heres the end!</h2>
-    <p>hopefully you're doing well! feel free to check out some of my public repos, or check out my [roblox profile](https://www.roblox.com/users/110029109/profile) if you're bored :P</p>
+    hopefully you're doing well! feel free to check out some of my public repos, or check out my roblox profile (https://www.roblox.com/users/110029109/profile) if you're bored :P
   </div>
 </div>
 
