@@ -1,14 +1,14 @@
 <div>
   <p align="right">🗕 🗗 🗙</p>
-  <div align="center">
+  <div>
     <a href="https://www.github.com/arlowontprogram">
-        <h1>hi! i'm arlo! <img src="https://avatars.githubusercontent.com/u/38384052?s=64"></h1>
+        <h1>hi! i'm arlo!</h1>
     </a>
     <img src="https://skillicons.dev/icons?i=lua,py,html,js,vscode,github">
     <h3>i'm someone who enjoys writing code for unfinished projects</h3><p><i>(that was supposed to be completed 9 years ago)</i></p>
     <p>i primarily work with lua code for game development on roblox,<br/>but i also enjoy creating small programs to help make my life that little bit easier</p>
     <p>in my free-time, i enjoy going out and taking pictures, discovering new places or just socialising with the lads</p>
-    <h2>well, heres the end!</h2>
+    <h2><​footer><​/footer></h2>
     hopefully you're doing well! feel free to check out some of my public repos, or check out my roblox profile (https://www.roblox.com/users/110029109/profile) if you're bored :P
   </div>
 </div>
