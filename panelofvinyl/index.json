@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "artist": "Sleep Token",
+    "album": "Even in Arcadia",
+    "year": 2025,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/sleep_token-eia.jpg",
+    "notes": ""
+  },
+  {
+    "artist": "Sleep Token",
+    "album": "Take Me Back To Eden",
+    "year": 2023,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/sleep_token-tmbte.jpg",
+    "notes": ""
+  },
+  {
+    "artist": "Sleep Token",
+    "album": "Sundowning",
+    "year": 2019,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/sleep_token-sundowning.jpg",
+    "notes": ""
+  },
+  {
+    "artist": "Invent Animate",
+    "album": "Heavener",
+    "year": 2023,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/invent_animate-heavener.jpg",
+    "notes": ""
+  },
+  {
+    "artist": "Spiritbox",
+    "album": "Tsunami Sea",
+    "year": 2025,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/spiritbox-tsunami_sea.jpg",
+    "notes": ""
+  },
+  {
+    "artist": "Thornhill",
+    "album": "Heroine",
+    "year": 2022,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/thornhill-heroine.jpg",
+    "notes": ""
+  },
+  {
+    "artist": "Tool",
+    "album": "Fear Inoculum",
+    "year": 2019,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/tool-fear_inno.png",
+    "notes": ""
+  }
+]
