@@ -15,6 +15,13 @@
   },
   {
     "artist": "Sleep Token",
+    "album": "This Place Will Become Your Tomb",
+    "year": 2021,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/sleep_token-tpwbyt.jpg",
+    "notes": ""
+  },
+  {
+    "artist": "Sleep Token",
     "album": "Sundowning",
     "year": 2019,
     "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/sleep_token-sundowning.jpg",
@@ -32,6 +39,13 @@
     "album": "Tsunami Sea",
     "year": 2025,
     "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/spiritbox-tsunami_sea.jpg",
+    "notes": ""
+  },
+  {
+    "artist": "Spiritbox",
+    "album": "The Fear of Fear",
+    "year": 2023,
+    "cover": "https://raw.githubusercontent.com/cyberahree/cyberahree/refs/heads/main/panelofvinyl/icons/spiritbox-the-fear-of-fear.jpg",
     "notes": ""
   },
   {
