@@ -1,1 +1,1 @@
-hi there!! - [www.ahree.xyz](https://www.ahree.xyz)
+hi there!! - [ahree.xyz](https://ahree.xyz)
